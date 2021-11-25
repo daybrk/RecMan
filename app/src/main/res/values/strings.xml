@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ReceptionManager</string>
+
+    <string name="add_new_resident">Добавить клиента</string>
+    <string name="resident_db">Бд жильцов</string>
+
+    <string name="fio">ФИО:</string>
+    <string name="fio_hint">ФИО:</string>
+    <string name="status">Статус:</string>
+    <string name="status_hint">Статус:</string>
+    <string name="phone">Номер телефона:</string>
+    <string name="phone_hint">Номер телефона:</string>
+    <string name="payment_status">Статус оплаты:</string>
+    <string name="payment_status_hint">Статус оплаты:</string>
+    <string name="payment_count">Сумма оплаты:</string>
+    <string name="payment_count_hint">Сумма оплаты:</string>
+    <string name="terms_of_stay">Сроки проживания:</string>
+    <string name="terms_of_stay_hint">Сроки проживания:</string>
+    <string name="select_a_room_number">Выбрать номер</string>
+    <string name="select_a_room_number_hint">Номер:</string>
+
+
+    <string name="add_resident">Добавить</string>
+
+    <string name="white_them">Белая тема</string>
+    <string name="black_them">Чёрная тема</string>
+
+</resources>
